@@ -1,0 +1,12 @@
+{
+  "id": "saveYourFinger",
+  "name": "Save Your Finger",
+  "author": "mrudat",
+  "version": "0.0.1",
+  "released": "2019-05-06",
+  "updated": "2019-05-06",
+  "description": "Enables single shot autofire for all weapons where it was not already enabled.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
